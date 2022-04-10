@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leetcode-trainer/static/css/main.073c9b0a.css",
+    "main.js": "/leetcode-trainer/static/js/main.e652bbdd.js",
+    "static/js/787.3c75ff28.chunk.js": "/leetcode-trainer/static/js/787.3c75ff28.chunk.js",
+    "static/media/logo.svg": "/leetcode-trainer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/leetcode-trainer/index.html",
+    "main.073c9b0a.css.map": "/leetcode-trainer/static/css/main.073c9b0a.css.map",
+    "main.e652bbdd.js.map": "/leetcode-trainer/static/js/main.e652bbdd.js.map",
+    "787.3c75ff28.chunk.js.map": "/leetcode-trainer/static/js/787.3c75ff28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e652bbdd.js"
+  ]
+}
